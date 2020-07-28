@@ -55,7 +55,7 @@ Consulter [l'aide en ligne Isogeo au sujet du recensement automatisé des servic
 
 A l'ajout d'un service, la fenêtre d'erreur suivante peut s'afficher :
 
-![Erreur d&apos;acc&egrave;s au serveur g&eacute;ographique](../../assets/plugin_ArcGISPro_error_srv_403_FR.jpg)
+![Erreur d&apos;acc&egrave;s au serveur g&eacute;ographique](../../assets/plugin_ArcGISPro_add_data_error_FR.jpg)
 
 Pour qu'ArcGIS Pro puisse accéder aux données via un service géographique, il est nécessaire que l'URL racine du serveur géographique soit pleinement accessible en lecture.
 

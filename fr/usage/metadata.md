@@ -14,4 +14,4 @@ Dans la liste des résultats, le résumé de la métadonnées s'affiche au survo
 
 En cliquant sur un item de la liste des résultats, l'utilisateur peut consulter la fiche de métadonnées Isogeo correspondant à la donnée. Elle s'affiche alors dans une fenêtre indépendante contenant les informations réparties dans différents onglets verticaux :
 
-![Consulter la fiche de métadonnées détaillée](../../assets/plugin_ArcMap_metadata_history_FR.png)
+![Consulter la fiche de métadonnées détaillée](../../assets/plugin_ArcGISPro_metadata_general_FR.png)

@@ -93,7 +93,7 @@ L'ordre du tri peut également être spécifié :
 * Ascendant
 * Descendant
 
-![Critères de tri](../../assets/plugin_ArcGISPro_sort_order_FR.png)
+![Ordre de tri](../../assets/plugin_ArcGISPro_sort_order_FR.png)
 
 ---
 

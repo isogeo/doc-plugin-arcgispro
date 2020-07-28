@@ -1,0 +1,45 @@
+{
+    "author": "Isogeo <contact@isogeo.fr>",
+    "name": "isogeo-help-app-plugin-arcmap",
+    "private": false,
+    "description": "Plugin Isogeo pour ArcMap - Documentation",
+    "license": "CC-BY-NC-SA-4.0",
+    "keywords": [
+        "isogeo",
+        "arcmap",
+        "plugin",
+        "extension",
+        "help",
+        "métadonnées",
+        "INSPIRE",
+        "SIG",
+        "userguide",
+        "documentation",
+        "aide en ligne"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/isogeo/doc-plugin-arcmap"
+    },
+    "scripts": {
+        "build": "gitbook build",
+        "dev": "gitbook serve"
+    },
+    "engines": {
+        "node": ">=10.15.0",
+        "gitbook": ">=3.2.2",
+        "yarn": ">= 1.0.0"
+    },
+    "dependencies": {
+        "gitbook": "^3.2.3",
+        "gitbook-cli": "^2.3.2",
+        "gitbook-plugin-ga": "^1.0.1",
+        "gitbook-plugin-html-minifier": "^0.0.1",
+        "gitbook-plugin-image-captions": "^3.1.0",
+        "gitbook-plugin-page-toc": "^1.1.0",
+        "gitbook-plugin-sitemap-general": "^0.1.1",
+        "gitbook-plugin-timeline": "^1.0.13",
+        "gitbook-plugin-toggle-headers": "^0.1.0",
+        "gitbook-plugin-youtube": "^1.1.0"
+    }
+}

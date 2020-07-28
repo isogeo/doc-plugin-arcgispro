@@ -1,12 +1,12 @@
 {
     "author": "Isogeo <contact@isogeo.fr>",
-    "name": "isogeo-help-app-plugin-arcmap",
+    "name": "isogeo-help-app-plugin-arcgispro",
     "private": false,
-    "description": "Plugin Isogeo pour ArcMap - Documentation",
+    "description": "Plugin Isogeo pour ArcGIS Pro - Documentation",
     "license": "CC-BY-NC-SA-4.0",
     "keywords": [
         "isogeo",
-        "arcmap",
+        "arcgis pro",
         "plugin",
         "extension",
         "help",
@@ -19,7 +19,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/isogeo/doc-plugin-arcmap"
+        "url": "https://github.com/isogeo/doc-plugin-arcgispro"
     },
     "scripts": {
         "build": "gitbook build",

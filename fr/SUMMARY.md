@@ -17,8 +17,7 @@
 * [Rechercher](usage/search.md)
 * [Consulter les métadonnées](usage/metadata.md)
 * [Ajouter une donnée](usage/display.md)
-* [Recherches rapides](usage/advanced/quicksearch.md)
-* [Paramètres de recherche](usage/advanced/defaultsearch.md)
+* [Recherches rapides et recherche par défaut](usage/quicksearch.md)
 
 ## Annexes
 

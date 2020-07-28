@@ -6,11 +6,11 @@ description: Ajouter une donnée à la carte (canevas) dans ArcGIS Pro avec le p
 
 Pour ajouter une donnée à la carte, les différentes options sont accessible en bas à droite de chaque item de la liste des résultats.
 
-![Choisir une option d&apos;ajout de la donnée](../../assets/plugin_ArcGISPro_choose_add_option.png)
+![Choisir une option d&apos;ajout de la donnée](../../assets/plugin_ArcGISPro_choose_add_option_FR.png)
 
 Il suffit de choisir une option dans la liste déroulante puis de cliquer sur le bouton `+`.
 
-![Ajouter une donnée à la carte](../../assets/plugin_ArcGISPro_add_data.png)
+![Ajouter une donnée à la carte](../../assets/plugin_ArcGISPro_add_data_FR.png)
 
 ---
 
@@ -55,7 +55,7 @@ Consulter [l'aide en ligne Isogeo au sujet du recensement automatisé des servic
 
 A l'ajout d'un service, la fenêtre d'erreur suivante peut s'afficher :
 
-![Erreur d&apos;acc&egrave;s au serveur g&eacute;ographique](../../assets/plugin_ArcGISPro_error_srv_403.jpg)
+![Erreur d&apos;acc&egrave;s au serveur g&eacute;ographique](../../assets/plugin_ArcGISPro_error_srv_403_FR.jpg)
 
 Pour qu'ArcGIS Pro puisse accéder aux données via un service géographique, il est nécessaire que l'URL racine du serveur géographique soit pleinement accessible en lecture.
 

@@ -16,7 +16,7 @@ Pour enregistrer une recherche :
 
 1. Après avoir tapé du texte dans la barre de recherche et/ou agi sur les différents filtres, cliquer sur le bouton *"Save"* situé en haut à droite de la zone d'affichage des résultats :
 
-    !["Enregistrer une recherche"](../../assets/plugin_ArcGISPro_save_quicksearch_button.png)
+    !["Enregistrer une recherche"](../../assets/plugin_ArcGISPro_quicksearch_save_button.png)
 
 2. Lui donner un nom dans la fenêtre qui apparait avant d'appuyer sur "Enregistrer" :
 

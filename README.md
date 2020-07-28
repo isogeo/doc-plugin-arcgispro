@@ -1,6 +1,6 @@
 # Isogeo - ArcGIS Pro plugin documentation
 
-[![Build Status](https://dev.azure.com/isogeo/Documentations/_apis/build/status/isogeo.doc-plugin-arcgispro?branchName=master)](https://dev.azure.com/isogeo/Documentations/_build/latest?definitionId=29&branchName=master)
+[![Build Status](https://dev.azure.com/isogeo/Documentations/_apis/build/status/isogeo.doc-plugin-arcgispro?branchName=master)](https://dev.azure.com/isogeo/Documentations/_build/latest?definitionId=56&branchName=master)
 
 Content, structure and media of the website documentation. It's part of the Isogeo online documentations ([see Github repositories](https://github.com/search?q=topic%3Adocumentation+org%3Aisogeo&type=Repositories)).
 

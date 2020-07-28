@@ -1,7 +1,7 @@
 # Global variables
 variables:
-  project_name: "Documentation - Plugin Isogeo ArcMap"
-  project_name_clean: "arcmap"
+  project_name: "Documentation - Plugin Isogeo ArcGIS Pro"
+  project_name_clean: "arcgispro"
   yarn_cache_folder: $(Pipeline.Workspace)/.yarn/cache
 
 trigger:

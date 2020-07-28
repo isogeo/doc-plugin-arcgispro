@@ -1,3 +1,7 @@
+---
+description: Configurer le plugin Isogeo pour ArcGIS Pro
+---
+
 # Configuration et paramètres
 
 ## Connexion à travers un proxy {#proxy}

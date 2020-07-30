@@ -8,8 +8,9 @@
 
 ## Installation
 
-* [Installer et ajouter](installation/standard.md)
+* [Installer et ajouter](installation/installation.md)
 * [Mettre à jour](installation/update.md)
+* [Désinstaller](installation/uninstall.md)
 
 ## Utilisation
 

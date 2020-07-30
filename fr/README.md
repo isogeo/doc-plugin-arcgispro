@@ -1,8 +1,10 @@
 ---
-description: Présentation générale du plugin Isogeo pour ArcMap (Esri)
+description: Présentation générale du plugin Isogeo pour ArcGIS Pro
 ---
 
-![Logo Isogeo ArcMap](../assets/logo_isogeo_arcmap.png)
+# Plugin Isogeo pour ArcGIS Pro
+
+![Logo ArcGIS Pro](../assets/logo_ArcGISPro.png)
 
 Vous rêviez d’un moteur de recherche de données dans votre SIG… Isogeo et ses partenaires l’ont fait !
 
@@ -18,7 +20,7 @@ Les différents plugins et widgets partagent une base fonctionnelle commune, ré
 * **Afficher** la donnée dans son logiciel (ou son application) grâce aux ressources renseignées dans Isogeo ;
 * **Consulter** la fiche de métadonnées dans une fenêtre dédiée ;
 
-!["Données ajoutées à la carte d&apos;ArcMap via le plugin Isogeo"](../assets/plugin_ArcMap_map_dataAdded_3_FR.png)
+!["Données ajoutées à la carte d'ArcGIS Pro via le plugin Isogeo"](../assets/plugin_ArcGISPro.png)
 
 ---
 
@@ -33,7 +35,7 @@ L'application est disponible en 2 langues :
 
 ### Licence
 
-Le plugin est la propriété exclusive d'Isogeo, le développement étant délégué à  [GEOFIT](https://geofit.fr/).
+Le plugin est la propriété exclusive d'Isogeo, le développement ayant été réalisé par [Vianney Doleans](https://www.linkedin.com/in/vianney-doleans-1158a3121), developpeur indépendant.
 
 ---
 

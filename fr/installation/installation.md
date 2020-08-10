@@ -6,8 +6,8 @@ description: Installer le plugin Isogeo pour ArcGIS Pro
 
 ## Installer le plugin {#installation}
 
-1. Dézipper le fichier reçu dans un dossier dédié. Pour être cohérent avec le fonctionnement d'ArcGIS, nous recommandons d'utiliser le dossier des _AddIns_ dans `Mes Documents` : `C:\Users\$USER\Documents\ArcGIS\AddIns\Desktop10.X\Isogeo` \(noter le X à remplacer selon votre version\)
-2. Double-cliquer sur **ArcGISProAddinIsogeo.esriAddIn** :
+1. Dézipper le fichier reçu dans un dossier dédié dans vos documents.
+2. Double-cliquer sur **Isogeo.AddinIsogeo.esriAddInX** :
 3. La fenêtre suivante s'ouvre :
    !["Confirmation de l'installation"](../../assets/plugin_ArcGISPro_install_esriaddin.png)
 4. Valider en cliquant sur **Installer Complément**. Une petite boîte de dialogue confirme que l'installation a réussi : "_Installation réussie_".

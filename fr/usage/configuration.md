@@ -30,4 +30,24 @@ Créer un partage avec un ou plusieurs catalogues vers l'application _Plugin Arc
 
 ## Ancrer ou déplacer le plugin librement {#positionning}
 
-A l'instar des autres volets de l'interface d'ArcGIS, il est possible de choisir où positionner la fenêtre du plugin et de la minimiser dynamiquement
+A l'instar des autres volets de l'interface d'ArcGIS, il est possible de choisir où positionner la fenêtre du plugin et de la minimiser dynamiquement.
+
+## Changer la langue {#language}
+
+Le plugin est disponible en anglais et en français selon la langue de votre ArcGIS Pro. Pour changer la langue d'ArcGIS Pro :
+
+* Cliquer sur "Projet" sur la page principale du logiciel
+* Cliquer sur Options
+* Scroller vers l'option "Langue"
+* Vous pouvez choisir manuellement la langue en décochant l'option "Appairer à Microsoft Windows"
+
+> NB : Toute autre langue que "français" sélectionnée sera automatiquement définie comme "anglais" dans le plugin Isogeo.
+
+## Changer de thème {#theme}
+
+Le plugin est également disponible dans les deux thèmes d'ArcGIS Pro sombre ou clair (dark and light). Celui-ci s'adapte automatiquement au thème choisi. Pour changer le thème d'ArcGIS Pro :
+
+* Cliquer sur "Projet" sur la page principale du logiciel
+* Cliquer sur "Général"
+* Cliquer sur "Thème d'application"
+* Vous aver le choix entre clair (light) et foncé (dark)

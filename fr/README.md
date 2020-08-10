@@ -33,9 +33,15 @@ L'application est disponible en 2 langues :
 * Français
 * Anglais
 
-### Licence
+### Contributeurs
 
-Le plugin est la propriété exclusive d'Isogeo, le développement ayant été réalisé par [Vianney Doleans](https://www.linkedin.com/in/vianney-doleans-1158a3121), developpeur indépendant.
+* Ce plugin Isogeo ArcGis Pro a été développé par le développeur freelance [Vianney DOLEANS](https://www.linkedin.com/in/vianneydoleans/) en 2020 dans le cadre d'une commande de la société Isogeo, sous **licence GPL3**.
+  * vianney.doleans@gmail.com
+  * [GitHub](https://github.com/VianneyDoleans)
+  * [LinkedIn](https://www.linkedin.com/in/vianney*doleans*1158a3121/)
+* Dans le cadre du développement de ce plugin Isogeo ArcGis Pro, le plugin Isogeo ArcMap produit par la société [GEOFIT](https://geofit.fr/), sous licence GPL3, a été utilisé.
+  * [Site internet](https://geofit.fr/)
+  * [LinkedIn](https://www.linkedin.com/company/geofit/?originalSubdomain=fr)
 
 ---
 

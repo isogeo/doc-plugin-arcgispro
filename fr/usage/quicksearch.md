@@ -40,6 +40,7 @@ Il suffit d'en sélectionner une dans la liste déroulante puis de cliquer sur l
 
 ## Recherche par défaut
 
-Il est possible d'enregistrer une recherche par défaut qui sera utilisée pour filtrer les résultats dès le début d'une nouvelle session d'utilisation du plugin. Après avoir tapé du texte dans la barre de recherche et/ou agi sur les différents filtres, cliquer sur le bouton "Enregistrer" de l'onglet "Paramètres" (rubrique "Paramètres de recherche") :
+Il est possible de choisir une recherche rapide enregistrée pour qu'elle soit lancée par défaut à l'ouverture du plugin.  
+Pour cela, sélectionner une recherche enrégistrée et cliquer sur *Enregistrer*.s
 
 !["Gérer les recherches rapides"](../../assets/plugin_ArcGISPro_default_search_save_FR.png)

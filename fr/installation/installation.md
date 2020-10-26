@@ -39,4 +39,4 @@ Le plugin est désormais référencé dans les compléments d'ArcGIS Pro. Il s'a
 
 3. Le plugin apparait désormais dans la barre ;
 
-   !["Accès direct au plugin depuis la barre d'accès rapide"](../../assets/plugin_ArcGISPro_add_to_toolbar.png)
+   !["Accès direct au plugin depuis la barre d'accès rapide"](../../assets/plugin_ArcGISPro_toolbar.png)

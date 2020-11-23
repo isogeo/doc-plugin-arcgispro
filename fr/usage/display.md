@@ -47,7 +47,7 @@ Le plugin supporte les couches de services documentés automatiquement et associ
 * Esri Feature Service \(EFS\)
 * Esri Map Service \(EMS\)
 
-Consulter [l'aide en ligne Isogeo au sujet du recensement automatisé des services et de l'association couche de service / donnée cataloguée](http://help.isogeo.com/fr/features/inventory/md_services/srv_intro.html).
+Consulter [l'aide en ligne Isogeo au sujet du recensement automatisé des services et de l'association couche de service / donnée cataloguée](https://help.isogeo.com/fr/features/inventory/md_services/srv_intro.html).
 
 #### Cas particuliers
 

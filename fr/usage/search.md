@@ -22,7 +22,7 @@ Les termes saisis sont recherchés au sein :
 * de ses mots-clés
 * de ses thèmes INSPIRE
 
-Pour en savoir plus sur le fonctionnement du moteur de recherche Isogeo, [consulter l'aide en ligne](http://help.isogeo.com/fr/features/inventory/search.html).
+Pour en savoir plus sur le fonctionnement du moteur de recherche Isogeo, [consulter l'aide en ligne](https://help.isogeo.com/fr/features/inventory/search.html).
 
 ## Filtres contextuels {#filters}
 
@@ -74,7 +74,7 @@ Deux boutons et une liste déroulante sont consacrés à la navigation entre les
 
 Une fois affichés, les résultats peuvent être triés via les deux listes déroulantes situées au dessus de la zone d'affichage des résultats.
 
-Le tri par défaut est **le score de pertinence** (voir [ici pour le détail du calcul du score](http://help.isogeo.com/fr/features/inventory/search.html#pertinence-)). Il s'agit du tri recommandé lors de recherches textuelles.
+Le tri par défaut est **le score de pertinence** (voir [ici pour le détail du calcul du score](https://help.isogeo.com/fr/features/inventory/search.html#pertinence-)). Il s'agit du tri recommandé lors de recherches textuelles.
 
 Lorsqu'aucun texte n'est saisi dans la barre de recherche, le score de pertinence étant nul pour tous les résultats c'est alors le tri décroissant par date de création de la fiche de métadonnée qui est appliqué par défaut.
 

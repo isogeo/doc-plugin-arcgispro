@@ -6,11 +6,17 @@
 * [Prérequis](prerequisites.md)
 * [Essayer le plugin](tryit.md)
 
-## Installation
+## Installation individuelle
 
 * [Installer et ajouter](installation/installation.md)
 * [Mettre à jour](installation/update.md)
 * [Désinstaller](installation/uninstall.md)
+
+## Mise à jour généralisée sur le serveur
+
+* [Prérequis](update/requirements.md)
+* [Initialisation administateur](update/admin.md)
+* [Initialisation utilisateur](update/user.md)
 
 ## Utilisation
 

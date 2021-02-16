@@ -12,10 +12,16 @@
 * [Mettre à jour](installation/update.md)
 * [Désinstaller](installation/uninstall.md)
 
-## Mise à jour généralisée sur le serveur
+## Mise à jour manuelle sur un serveur
 
 * [Prérequis](update/requirements.md)
 * [Initialisation administateur](update/admin.md)
+* [Initialisation utilisateur](update/user.md)
+
+## Mise à jour automatique sur un server
+
+* [Prérequis](windows_task/requirements.md)
+* [Mise en place](windows_task/installation.md)
 * [Initialisation utilisateur](update/user.md)
 
 ## Utilisation

@@ -19,9 +19,17 @@ Pour mettre en place la tâche planifiée :
 
 !["Déclencheurs"](../../assets/taskplanner_task_declencheur.PNG)
 
-* Dans `Actions`, créer une nouvelle action et selectionner `Démarrer un programme` et choisir le fichier batch de mise à jour et dans les arguments, renseigner le chemin vers le dossier partagé.
+* Dans `Actions`, créer une nouvelle action et selectionner `Démarrer un programme` et choisir le fichier batch de mise à jour et renseigner les arguments suivants en remplaçant chemin_vers_AddIn par le chemin absolu vers le dossier contenant le AddIn et localisation des logs par le chemin absolu vers le dossier contenant les logs :
+
+```
+"chemin_vers_AddIn" >> "localisation_des_logs\plugin_arcgis_pro_logs.txt"
+ ```
+
+
 
 !["Actions"](../../assets/taskplanner_task_actions.PNG)
+
+
 
 * Dans `Paramètres`, selectionner `Exécuter la tâche dès que possible si un démarrage planifié est manqué` et `Arrêter la tâche si elle s'exécute plus de 1 heures` et `Si la tâche en cours ne se termine pas sur demande, forcer son arrêt`.
 

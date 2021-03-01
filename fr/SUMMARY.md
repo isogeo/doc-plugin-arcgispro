@@ -21,7 +21,7 @@
 ## Mise à jour automatique sur un server
 
 * [Prérequis](windows_task/requirements.md)
-* [Mise en place](windows_task/installation.md)
+* [Mise en place](windows_task/admin.md)
 * [Initialisation utilisateur](update/user.md)
 
 ## Utilisation

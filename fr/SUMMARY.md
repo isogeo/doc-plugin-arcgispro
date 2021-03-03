@@ -18,7 +18,7 @@
 * [Initialisation administateur](update/admin.md)
 * [Initialisation utilisateur](update/user.md)
 
-## Mise à jour automatique sur un server
+## Mise à jour automatique sur un serveur
 
 * [Prérequis](windows_task/requirements.md)
 * [Mise en place](windows_task/admin.md)

@@ -2,7 +2,7 @@
 
 ## Initialisation
 
-Pour mettre en place la mise à jour automatique, il faut mettre en place un dossier accessibles à tous les utilisateurs du plugin dans lequel le fichier `Isogeo.AddIn.esriAddinX` se trouvera en permanence et le communiquer à chacun des utilisateurs pour qu'il puisse configurer son poste.
+Pour mettre en place la mise à jour automatique, il faut mettre en place un dossier accessibles à tous les utilisateur du plugin dans lequel le fichier `Isogeo.AddIn.esriAddinX` se trouvera en permanence et le communiquer à chacun des utilisateurs pour qu'il puisse configurer son poste.
 
 ## Mise à jour
 

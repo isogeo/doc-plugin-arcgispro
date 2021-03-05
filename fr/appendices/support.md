@@ -26,3 +26,9 @@ Vérifier qu'au moins un partage alimente l'application : voir [comment partager
 Pour qu'une donnée soit ajoutable à la carte, il faut que des informations le permettant soient cataloguées dans la métadonnée. 
 
 Pour en savoir plus, [consulter la section dédiée dans la documentation](/usage/display.md).
+
+### Pourquoi une erreur s'affiche-t-elle lorsque j'ajoute une donnée d'un service géographique à la carte ?  {#no-add}
+
+!["Le service demandé n'est pas compatible"](../../assets/plugin_ArcGISPro_add_to_canvas_services_FR.png)
+
+Pour pouvoir ajouter une donnée au canvas, il faut d'abord y insérer une carte.

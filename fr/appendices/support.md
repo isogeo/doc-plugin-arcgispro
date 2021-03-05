@@ -27,7 +27,7 @@ Pour qu'une donnée soit ajoutable à la carte, il faut que des informations le 
 
 Pour en savoir plus, [consulter la section dédiée dans la documentation](/usage/display.md).
 
-### Pourquoi une erreur s'affiche-t-elle lorsque j'ajoute une donnée d'un service géographique à la carte ?  {#no-add}
+### Pourquoi une erreur s'affiche-t-elle lorsque j'ajoute une donnée d'un service géographique à la carte ?  {#no-service-add}
 
 !["Le service demandé n'est pas compatible"](../../assets/plugin_ArcGISPro_add_to_canvas_services_FR.png)
 

@@ -71,4 +71,4 @@ Pour mettre en place la tâche planifiée :
 
 ## Configuration utilisateur
 
-L'utilisateur doit alors configurer son poste comme expliqué dans la partie suivante : [Initialisation utilisateur](update/user.md). 
+L'utilisateur doit alors configurer son poste comme expliqué dans la partie suivante : [Initialisation utilisateur](../update/user.md). 

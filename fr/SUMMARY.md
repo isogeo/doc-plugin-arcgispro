@@ -35,5 +35,6 @@
 ## Annexes
 
 * [Questions fréquentes et support](appendices/support.md)
+* [Mise en place d'une tâche Windows de mise à jour du plugin](appendices/windowstask.md)
 * [Notes des versions](appendices/versions.md)
 * [Index des images et figures](pictures.md)

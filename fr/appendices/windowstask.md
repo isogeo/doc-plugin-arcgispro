@@ -32,6 +32,10 @@ Get-Host | Select-Object Version
 
 ## Installation administrateur
 
+### Téléchargement du fichier batch
+
+Le fichier bat peut être trouvé [ici](https://isogeodownloads.blob.core.windows.net/arcgis-pro/downloadPlugin.bat).
+
 ### Mise en place de la tâche plannifiée 
 
 Prérequis :
@@ -71,4 +75,4 @@ Pour mettre en place la tâche planifiée :
 
 ## Configuration utilisateur
 
-L'utilisateur doit alors configurer son poste comme expliqué dans la partie suivante : [Initialisation utilisateur](../update/user.md). 
+L'utilisateur doit alors configurer son poste comme expliqué dans la partie suivante : [Démarche utilisateur](./update.md). 

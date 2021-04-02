@@ -12,12 +12,6 @@
 * [Mettre à jour](installation/update.md)
 * [Désinstaller](installation/uninstall.md)
 
-## Mise à jour manuelle sur un serveur
-
-* [Prérequis](update/requirements.md)
-* [Initialisation administateur](update/admin.md)
-* [Initialisation utilisateur](update/user.md)
-
 ## Utilisation
 
 * [Configurer](usage/configuration.md)
@@ -29,6 +23,7 @@
 ## Annexes
 
 * [Questions fréquentes et support](appendices/support.md)
+* [Mise à jour collective](appendices/update.md)
 * [Mise en place d'une tâche Windows de mise à jour du plugin](appendices/windowstask.md)
 * [Notes des versions](appendices/versions.md)
 * [Index des images et figures](pictures.md)

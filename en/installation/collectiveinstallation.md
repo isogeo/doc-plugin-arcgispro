@@ -1,4 +1,4 @@
-# Collective update
+# Collective installation
 
 ## Requirements
 

@@ -1,4 +1,4 @@
-# Mise à jour collective
+# Installation collective
 
 ## Pré-requis
 

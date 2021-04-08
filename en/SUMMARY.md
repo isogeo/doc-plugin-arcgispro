@@ -4,7 +4,8 @@
 
 * [Introduction](README.md)
 
-## Appendices
+## Installation
+* [Collective Update](installation/collectiveinstallation.md)
 
-* [Collective Update](appendices/update.md)
+## Appendices
 * [Add windows task for automatic update](appendices/windowstask.md)

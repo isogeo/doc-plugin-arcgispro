@@ -4,7 +4,6 @@
 
 * [Introduction](README.md)
 * [Prérequis](prerequisites.md)
-* [Essayer le plugin](tryit.md)
 
 ## Installation
 
